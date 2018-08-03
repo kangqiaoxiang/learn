@@ -25,7 +25,7 @@ public class TwoSum {
         }
         return a;
     }
-    /**方式2：通过hash表的方式来做
+    /**方式2：通过hash表的方式来做，此方法更好
      * */
     public static int[] twoSum2(int[] nums,int target){
         Map<Integer,Integer> map = new HashMap<Integer,Integer>();
