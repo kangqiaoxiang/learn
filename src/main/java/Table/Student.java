@@ -13,6 +13,7 @@ public class Student extends People{
         super(name,id);
         this.sId = sId;
     }
+    @Override
     public void sayHello(){
         super.sayHello();
         System.out.println("I am a student of department of computer science.");
