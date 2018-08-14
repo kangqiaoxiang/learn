@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.leetcode_array;
 
 /**
  * Created by Administrator on 2018/4/25.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<root>
+    <filepaths>
+        <record>D:\logs\hadoop\records</record>
+        <reimburse>D:\logs\hadoop</reimburse>
+        <resultdata>D:\logs\resultdata</resultdata>
+    </filepaths>
+
+    <hdfspaths>
+        <result>/guide/todaydata</result>
+        <resultplus>/guide/mergereslut</resultplus>
+        <resultdata>/guide/resultdata</resultdata>
+        <historydata>/guide/historydata</historydata>
+        <hospitaloutput>/guide/hospitaloutput</hospitaloutput>
+        <diseaseoutput>/guide/diseaseoutput</diseaseoutput>
+        <hdiseaseoutput>/guide/hdiseaseoutput</hdiseaseoutput>
+    </hdfspaths>
+</root>
